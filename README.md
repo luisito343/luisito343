@@ -20,7 +20,7 @@
 `JavaScript` `React` `Vite` `HTML` `CSS` `Git` `GitHub` `Python` `PostgresSQL`
 
 ### ✅ En qué ando
-- Mejorando mi base en React.
+- Mejorando mi base en Front-End.
 - Desarrollandome en Data Analyst
 - Subiendo mini-proyectos semanales y documentándolos bien.
 
