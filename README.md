@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:tuemail@ejemplo.com">luisnava343@outlook.com </a> ·
   <a href="https://www.linkedin.com/in/tu-link">linkedin.com/in/lnava70</a> ·
-  <a href="https://tu-portafolio.com">Portafolio(Proximamente)</a>
+  <a href="https://github.com/luisito343/Portafolio.git">Portafolio(Esqueleto)</a>
 </p>
 
 ---
