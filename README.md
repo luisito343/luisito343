@@ -1,14 +1,14 @@
-\<h1 align="center"\>Hola, soy Luis 👋\</h1\>
+<h1 align="center">Hola, soy Luis 👋</h1>
 
-\<p align="center"\>
-Desarrollador en formación, construyendo proyectos con JavaScript, React y Node.js.\<br/\>
-\</p\>
+<p align="center">
+Desarrollador en formación, construyendo proyectos con JavaScript, React y Node.js.<br/>
+</p>
 
-\<p align="center"\>
-\<a href="mailto:luisnava343@outlook.com"\>luisnava343@outlook.com\</a\> ·
-\<a href="[https://www.linkedin.com/in/lnava70](https://www.google.com/search?q=https://www.linkedin.com/in/lnava70)"\>[linkedin.com/in/lnava70](https://www.google.com/search?q=https://linkedin.com/in/lnava70)\</a\> ·
-\<a href="[https://github.com/luisito343/Portafolio.git](https://github.com/luisito343/Portafolio.git)"\>Portafolio (Esqueleto)\</a\>
-\</p\>
+<p align="center">
+<a href="mailto:luisnava343@outlook.com">luisnava343@outlook.com</a> ·
+<a href="https://www.linkedin.com/in/lnava70">linkedin.com/in/lnava70</a> ·
+<a href="https://github.com/luisito343/Portafolio.git">Portafolio (Esqueleto)</a>
+</p>
 
 -----
 
